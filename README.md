@@ -18,6 +18,7 @@ Fes una funció recursiva que compti(mostri) desde n a 0.
 5
 
 3
+
 **Output**
 5
 4
