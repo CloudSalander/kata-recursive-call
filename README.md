@@ -4,7 +4,7 @@
 
 Kata 29, un 29 de febrer...trigarem a tornar a tenir un altre 29 de febrer...o sigui que per avui tenim un problema MOLT especial :)
 
-Deixe-ho que us presenti el concepte de (programació recursiva)[https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/].
+Deixe-ho que us presenti el concepte de [programació recursiva](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/).
 
 Avui us repto a resoldre un senzill problema d'aquesta manera. 
 
@@ -15,11 +15,12 @@ Fes una funció recursiva que compti(mostri) desde n a 0.
 - Per últim, mostra la [serie de Fibonacci](https://es.wikipedia.org/wiki/Sucesi%C3%B3n_de_Fibonacci) d'un nombre donat.
 
 **Input**
--5
 
--3
+- 5
+- 3
 
 **Output**
+
 - 5,4,3,2,1,0
 - 3,2,1,0
 
